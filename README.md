@@ -1,3 +1,5 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://www.linkedin.com/in/ujjwal-k-26078a96/)
+
 <h1 align="center">Hi 👋, I'm Ujjwal Kant</h1>
 <h3 align="center">🚀 Frontend Developer | Angular & React Enthusiast | UI/UX Lover</h3>
 
